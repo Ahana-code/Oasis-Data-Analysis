@@ -31,6 +31,32 @@ What we are doing here is creating a new column called Segment that consist of t
 🟢 Mid-range
 🟣 Careful
 
+FOR AUTOCORRECT AND AUTOCOMPLETE DATA ANALYSIS:-
+>The main objective of this task is to:
+Build and analyze Autocomplete (suggesting next word) and Autocorrect (fixing spelling mistakes) systems.
+Use data analysis to evaluate the accuracy and performance of these systems.
+Visualize how well your algorithms work.
+
+>| Tool                        | Purpose                       |
+| --------------------------- | ----------------------------- |
+| Python                      | Programming language          |
+| Jupyter Notebook or VS Code | Code writing environment      |
+| pandas                      | Load and clean datasets       |
+| nltk / re                   | NLP tools for preprocessing   |
+| scikit-learn                | For model building (optional) |
+| matplotlib/seaborn          | Visualizations                |
+
+> Sample dataset:
+text_data = [
+    "I love natural language processing",
+    "Natural language processing is a part of artificial intelligence",
+    "Autocomplete makes typing faster",
+    "Autocorrect fixes spelling mistakes automatically",
+    "Machine learning helps with NLP tasks"
+]
+
+
+
 
 
 
